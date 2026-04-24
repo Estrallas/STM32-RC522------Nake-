@@ -2,7 +2,7 @@
 ..\obj\button4_4.o: button4_4.h
 ..\obj\button4_4.o: stm32f10x.h
 ..\obj\button4_4.o: ..\CORE\core_cm3.h
-..\obj\button4_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\button4_4.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\button4_4.o: system_stm32f10x.h
 ..\obj\button4_4.o: stm32f10x_conf.h
 ..\obj\button4_4.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -31,4 +31,4 @@
 ..\obj\button4_4.o: ..\STM32F10x_FWLib\inc\misc.h
 ..\obj\button4_4.o: ..\SYSTEM\delay\delay.h
 ..\obj\button4_4.o: ..\SYSTEM\sys\sys.h
-..\obj\button4_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\button4_4.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

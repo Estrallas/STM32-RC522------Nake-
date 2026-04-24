@@ -2,7 +2,7 @@
 ..\obj\timer_key.o: timer_key.h
 ..\obj\timer_key.o: stm32f10x.h
 ..\obj\timer_key.o: ..\CORE\core_cm3.h
-..\obj\timer_key.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\timer_key.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\timer_key.o: system_stm32f10x.h
 ..\obj\timer_key.o: stm32f10x_conf.h
 ..\obj\timer_key.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -32,4 +32,4 @@
 ..\obj\timer_key.o: button4_4.h
 ..\obj\timer_key.o: ..\SYSTEM\delay\delay.h
 ..\obj\timer_key.o: ..\SYSTEM\sys\sys.h
-..\obj\timer_key.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\timer_key.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

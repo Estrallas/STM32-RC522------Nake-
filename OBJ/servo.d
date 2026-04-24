@@ -1,7 +1,7 @@
 ..\obj\servo.o: Servo.c
 ..\obj\servo.o: stm32f10x.h
 ..\obj\servo.o: ..\CORE\core_cm3.h
-..\obj\servo.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\servo.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\servo.o: system_stm32f10x.h
 ..\obj\servo.o: stm32f10x_conf.h
 ..\obj\servo.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h

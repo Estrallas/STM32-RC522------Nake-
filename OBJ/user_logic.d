@@ -1,7 +1,7 @@
 ..\obj\user_logic.o: user_logic.c
 ..\obj\user_logic.o: stm32f10x.h
 ..\obj\user_logic.o: ..\CORE\core_cm3.h
-..\obj\user_logic.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\user_logic.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\user_logic.o: system_stm32f10x.h
 ..\obj\user_logic.o: stm32f10x_conf.h
 ..\obj\user_logic.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -36,7 +36,7 @@
 ..\obj\user_logic.o: ..\SYSTEM\delay\delay.h
 ..\obj\user_logic.o: ..\SYSTEM\sys\sys.h
 ..\obj\user_logic.o: button4_4.h
-..\obj\user_logic.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
-..\obj\user_logic.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\user_logic.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
-..\obj\user_logic.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\user_logic.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\user_logic.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\user_logic.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\user_logic.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

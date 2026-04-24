@@ -1,7 +1,7 @@
 ..\obj\main.o: main.c
 ..\obj\main.o: stm32f10x.h
 ..\obj\main.o: ..\CORE\core_cm3.h
-..\obj\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\main.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\main.o: system_stm32f10x.h
 ..\obj\main.o: stm32f10x_conf.h
 ..\obj\main.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -36,9 +36,9 @@
 ..\obj\main.o: ..\HARDWARE\RC522\rc522Conf.h
 ..\obj\main.o: Servo.h
 ..\obj\main.o: button4_4.h
-..\obj\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\main.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 ..\obj\main.o: user_logic.h
 ..\obj\main.o: timer_key.h
-..\obj\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
-..\obj\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\main.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\main.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\main.o: D:\tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
