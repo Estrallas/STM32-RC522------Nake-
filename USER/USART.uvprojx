@@ -333,7 +333,7 @@
             <v6WtE>0</v6WtE>
             <v6Rtti>0</v6Rtti>
             <VariousControls>
-              <MiscControls></MiscControls>
+              <MiscControls>--no-multibyte-chars</MiscControls>
               <Define>STM32F10X_MD,USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
               <IncludePath>..\HARDWARE\LED;..\SYSTEM\delay;..\SYSTEM\sys;..\SYSTEM\usart;..\USER;..\STM32F10x_FWLib\inc;..\CORE;..\HARDWARE\KEY;..\NET\device\inc;..\NET\MQTT;..\NET\onenet\inc;..\NET\cJSON;..\HARDWARE\AD;..\HARDWARE\DS18B20;..\HARDWARE\GPRS;..\HARDWARE\iic2;..\HARDWARE\KEY;..\HARDWARE\LCD;..\HARDWARE\LED;..\HARDWARE\MPU6050;..\HARDWARE\SGP30;..\HARDWARE\SIM900A;..\HARDWARE\USART2;..\HARDWARE\KALMAN;..\HARDWARE\TIMER4;..\HARDWARE\USART2;..\HARDWARE\WDG;..\HARDWARE\timer2;..\HARDWARE\Timer;..\HARDWARE\ESP8266;..\HARDWARE\SIM800L;..\HARDWARE\STMFLASH;..\HARDWARE\OLED;..\HARDWARE\MAX30102;..\HARDWARE\rc522_config;..\HARDWARE\rc522_function;..\HARDWARE\read_card;..\HARDWARE\MQ5;..\HARDWARE\TB6612;..\HARDWARE\RC522</IncludePath>
@@ -395,6 +395,16 @@
               <FileType>1</FileType>
               <FilePath>.\system_stm32f10x.c</FilePath>
             </File>
+            <File>
+              <FileName>timer_key.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\timer_key.c</FilePath>
+            </File>
+            <File>
+              <FileName>timer_key.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\timer_key.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -421,14 +431,39 @@
               <FilePath>.\Servo.h</FilePath>
             </File>
             <File>
-              <FileName>LCD1602.c</FileName>
+              <FileName>button4_4.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\LCD1602.c</FilePath>
+              <FilePath>.\button4_4.c</FilePath>
             </File>
             <File>
-              <FileName>LCD1602.h</FileName>
+              <FileName>button4_4.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\LCD1602.h</FilePath>
+              <FilePath>.\button4_4.h</FilePath>
+            </File>
+            <File>
+              <FileName>OLED_DATA.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\OLED_DATA.c</FilePath>
+            </File>
+            <File>
+              <FileName>OLED_DATA.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\OLED_DATA.h</FilePath>
+            </File>
+            <File>
+              <FileName>user_logic.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\user_logic.h</FilePath>
+            </File>
+            <File>
+              <FileName>user_logic.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\user_logic.c</FilePath>
+            </File>
+            <File>
+              <FileName>oled.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\HARDWARE\OLED\oled.h</FilePath>
             </File>
           </Files>
         </Group>

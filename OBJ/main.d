@@ -31,11 +31,14 @@
 ..\obj\main.o: ..\SYSTEM\delay\delay.h
 ..\obj\main.o: ..\SYSTEM\sys\sys.h
 ..\obj\main.o: ..\HARDWARE\OLED\OLED.h
-..\obj\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\main.o: ..\USER\OLED_Data.h
 ..\obj\main.o: ..\HARDWARE\RC522\rc522.h
 ..\obj\main.o: ..\HARDWARE\RC522\rc522Conf.h
 ..\obj\main.o: Servo.h
-..\obj\main.o: lcd1602.h
+..\obj\main.o: button4_4.h
+..\obj\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\main.o: user_logic.h
+..\obj\main.o: timer_key.h
 ..\obj\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
