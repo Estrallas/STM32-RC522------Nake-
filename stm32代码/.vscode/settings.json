@@ -1,0 +1,11 @@
+{
+    "cmake.cmakePath": "cube-cmake",
+    "cmake.configureArgs": [
+        "-DCMAKE_COMMAND=cube-cmake"
+    ],
+    "cmake.preferredGenerators": [
+        "Ninja"
+    ],
+    "stm32cube-ide-clangd.path": "cube",
+    "idf.pythonInstallPath": "D:\\tool\\Espressif\\tools\\idf-python\\3.11.2\\python.exe"
+}
